@@ -19,7 +19,8 @@
 
 ![An awesome example image](screenshot/4.png "Image Title")
 
-
+----
+</br>
 
 ## Getting started
 
@@ -29,9 +30,15 @@
 - build the project: `npm run build`
 - start the project: `npm start`
 
+----
+</br>
+
 ## Features
 
 Type any two Github usernames as you like, it will process a battle results for you. Or you may like to compare any Github users with yourself. Try it, it's fun!
+
+----
+</br>
 
 ## Description
 
