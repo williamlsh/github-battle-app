@@ -37,6 +37,11 @@
 
 Type any two Github usernames as you like, it will process a battle results for you. Or you may like to compare any Github users with yourself. Try it, it's fun!
 
+Blew are the tech stacks used in this project:
+
+- React
+- React Router
+
 ----
 </br>
 
