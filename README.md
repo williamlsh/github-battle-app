@@ -42,6 +42,6 @@ Type any two Github usernames as you like, it will process a battle results for 
 
 ## Description
 
-This is a project of TylerMcGinnis.com's "React Fundamentals" course. I rewrite it on my own styles with the latest React features. I have to say this project is great and benefits me so much! Hope you new learner guys enjoy it and learn from it.
+This is a project of TylerMcGinnis.com's [React Fundamentals course](https://github.com/tylermcginnis/react-fundamentals). I rewrite it on my own styles with the latest React features. I have to say this project is great and benefits me so much! Hope you new learner guys enjoy it and learn from it.
 
 The [demo](https://github-battle-app-uivxubbrxw.now.sh/) is hosted by [Now](zeit.co), you should not miss having a try!
