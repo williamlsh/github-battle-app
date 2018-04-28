@@ -9,7 +9,7 @@
 ----
 </br>
 
-# Screenshots
+## Screenshots
 
 ![An awesome example image](screenshot/1.png "Image Title")
 
@@ -21,6 +21,27 @@
 
 ----
 </br>
+
+## Folder Structure
+
+```bash
+├── README.md
+├── package.json
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+├── src
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── utils
+│   │   └── api.js
+│   ├── index.css
+│   ├── index.js
+│   └── registerServiceWorker.js
+└── yarn.lock
+```
 
 ## Getting started
 
